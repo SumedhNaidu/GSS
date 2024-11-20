@@ -1,0 +1,11 @@
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\bin\Debug\net8.0\DLL.deps.json
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\bin\Debug\net8.0\DLL.dll
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\bin\Debug\net8.0\DLL.pdb
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\DLL.AssemblyInfoInputs.cache
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\DLL.AssemblyInfo.cs
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\DLL.dll
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\refint\DLL.dll
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\DLL.pdb
+C:\Users\SumedhNaidu\source\repos\DLL\DLL\obj\Debug\net8.0\ref\DLL.dll

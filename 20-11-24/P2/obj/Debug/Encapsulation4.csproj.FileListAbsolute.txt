@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\OopsRealTimeExamples\Encapsulation4\bin\Debug\Encapsulation4.exe.config
+C:\Users\SumedhNaidu\source\repos\OopsRealTimeExamples\Encapsulation4\bin\Debug\Encapsulation4.exe
+C:\Users\SumedhNaidu\source\repos\OopsRealTimeExamples\Encapsulation4\bin\Debug\Encapsulation4.pdb
+C:\Users\SumedhNaidu\source\repos\OopsRealTimeExamples\Encapsulation4\obj\Debug\Encapsulation4.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\OopsRealTimeExamples\Encapsulation4\obj\Debug\Encapsulation4.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\OopsRealTimeExamples\Encapsulation4\obj\Debug\Encapsulation4.exe
+C:\Users\SumedhNaidu\source\repos\OopsRealTimeExamples\Encapsulation4\obj\Debug\Encapsulation4.pdb

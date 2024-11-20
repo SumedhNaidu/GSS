@@ -1,0 +1,10 @@
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\bin\Debug\Adding DLL.exe.config
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\bin\Debug\Adding DLL.exe
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\bin\Debug\Adding DLL.pdb
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\bin\Debug\DemoClassLibrary.dll
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\bin\Debug\DemoClassLibrary.pdb
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\obj\Debug\Adding DLL.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\obj\Debug\Adding DLL.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\obj\Debug\Adding DLL.csproj.Up2Date
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\obj\Debug\Adding DLL.exe
+C:\Users\SumedhNaidu\source\repos\DotNetClass\Adding DLL\obj\Debug\Adding DLL.pdb
