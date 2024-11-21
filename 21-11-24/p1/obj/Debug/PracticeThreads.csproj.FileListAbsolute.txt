@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\Practice\PracticeThreads\bin\Debug\PracticeThreads.exe.config
+C:\Users\SumedhNaidu\source\repos\Practice\PracticeThreads\bin\Debug\PracticeThreads.exe
+C:\Users\SumedhNaidu\source\repos\Practice\PracticeThreads\bin\Debug\PracticeThreads.pdb
+C:\Users\SumedhNaidu\source\repos\Practice\PracticeThreads\obj\Debug\PracticeThreads.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\Practice\PracticeThreads\obj\Debug\PracticeThreads.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\Practice\PracticeThreads\obj\Debug\PracticeThreads.exe
+C:\Users\SumedhNaidu\source\repos\Practice\PracticeThreads\obj\Debug\PracticeThreads.pdb
