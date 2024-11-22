@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\Practice\Tuples\obj\Debug\Tuples.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\Practice\Tuples\obj\Debug\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\Practice\Tuples\bin\Debug\Tuples.exe.config
+C:\Users\SumedhNaidu\source\repos\Practice\Tuples\bin\Debug\Tuples.exe
+C:\Users\SumedhNaidu\source\repos\Practice\Tuples\bin\Debug\Tuples.pdb
+C:\Users\SumedhNaidu\source\repos\Practice\Tuples\obj\Debug\Tuples.exe
+C:\Users\SumedhNaidu\source\repos\Practice\Tuples\obj\Debug\Tuples.pdb

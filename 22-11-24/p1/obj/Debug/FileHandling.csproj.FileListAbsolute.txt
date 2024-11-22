@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\DotNetClass\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\SumedhNaidu\source\repos\DotNetClass\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\SumedhNaidu\source\repos\DotNetClass\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\SumedhNaidu\source\repos\DotNetClass\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\DotNetClass\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\DotNetClass\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\SumedhNaidu\source\repos\DotNetClass\FileHandling\obj\Debug\FileHandling.pdb
