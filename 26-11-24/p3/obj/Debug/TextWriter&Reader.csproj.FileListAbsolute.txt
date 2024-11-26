@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\Practice\TextWriter&Reader\bin\Debug\TextWriter&Reader.exe.config
+C:\Users\SumedhNaidu\source\repos\Practice\TextWriter&Reader\bin\Debug\TextWriter&Reader.exe
+C:\Users\SumedhNaidu\source\repos\Practice\TextWriter&Reader\bin\Debug\TextWriter&Reader.pdb
+C:\Users\SumedhNaidu\source\repos\Practice\TextWriter&Reader\obj\Debug\TextWriter&Reader.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\Practice\TextWriter&Reader\obj\Debug\TextWriter&Reader.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\Practice\TextWriter&Reader\obj\Debug\TextWriter&Reader.exe
+C:\Users\SumedhNaidu\source\repos\Practice\TextWriter&Reader\obj\Debug\TextWriter&Reader.pdb

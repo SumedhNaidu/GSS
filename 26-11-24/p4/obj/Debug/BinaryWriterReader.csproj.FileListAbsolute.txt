@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\Practice\BinaryWriterReader\bin\Debug\BinaryWriterReader.exe.config
+C:\Users\SumedhNaidu\source\repos\Practice\BinaryWriterReader\bin\Debug\BinaryWriterReader.exe
+C:\Users\SumedhNaidu\source\repos\Practice\BinaryWriterReader\bin\Debug\BinaryWriterReader.pdb
+C:\Users\SumedhNaidu\source\repos\Practice\BinaryWriterReader\obj\Debug\BinaryWriterReader.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\Practice\BinaryWriterReader\obj\Debug\BinaryWriterReader.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\Practice\BinaryWriterReader\obj\Debug\BinaryWriterReader.exe
+C:\Users\SumedhNaidu\source\repos\Practice\BinaryWriterReader\obj\Debug\BinaryWriterReader.pdb
