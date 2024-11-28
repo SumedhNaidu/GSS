@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\Practice\TaskWithReturnValue\bin\Debug\TaskWithReturnValue.exe.config
+C:\Users\SumedhNaidu\source\repos\Practice\TaskWithReturnValue\bin\Debug\TaskWithReturnValue.exe
+C:\Users\SumedhNaidu\source\repos\Practice\TaskWithReturnValue\bin\Debug\TaskWithReturnValue.pdb
+C:\Users\SumedhNaidu\source\repos\Practice\TaskWithReturnValue\obj\Debug\TaskWithReturnValue.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\Practice\TaskWithReturnValue\obj\Debug\TaskWithReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\Practice\TaskWithReturnValue\obj\Debug\TaskWithReturnValue.exe
+C:\Users\SumedhNaidu\source\repos\Practice\TaskWithReturnValue\obj\Debug\TaskWithReturnValue.pdb
