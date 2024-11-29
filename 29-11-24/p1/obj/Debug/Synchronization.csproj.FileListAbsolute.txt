@@ -1,0 +1,7 @@
+C:\Users\SumedhNaidu\source\repos\Practice\Synchronization\bin\Debug\Synchronization.exe.config
+C:\Users\SumedhNaidu\source\repos\Practice\Synchronization\bin\Debug\Synchronization.exe
+C:\Users\SumedhNaidu\source\repos\Practice\Synchronization\bin\Debug\Synchronization.pdb
+C:\Users\SumedhNaidu\source\repos\Practice\Synchronization\obj\Debug\Synchronization.csproj.AssemblyReference.cache
+C:\Users\SumedhNaidu\source\repos\Practice\Synchronization\obj\Debug\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\SumedhNaidu\source\repos\Practice\Synchronization\obj\Debug\Synchronization.exe
+C:\Users\SumedhNaidu\source\repos\Practice\Synchronization\obj\Debug\Synchronization.pdb

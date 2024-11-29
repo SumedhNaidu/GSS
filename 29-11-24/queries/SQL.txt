@@ -1,0 +1,74 @@
+--Joins
+
+CREATE TABLE instructors (
+    instructorId INT PRIMARY KEY,
+    instructorName VARCHAR(50)
+);
+
+CREATE TABLE courses (
+    courseId INT PRIMARY KEY,
+    courseName VARCHAR(50),
+    instructorId INT FOREIGN KEY REFERENCES instructors(instructorId)
+);
+
+
+CREATE TABLE students (
+    studentId INT PRIMARY KEY,
+    studentName VARCHAR(50),
+    courseId INT FOREIGN KEY REFERENCES courses(courseId)
+);
+
+
+
+INSERT INTO instructors (instructorId, instructorName)
+VALUES 
+(1, 'Dr. Smith'),
+(2, 'Prof. Brown'),
+(3, 'Dr. Taylor');
+
+
+INSERT INTO courses (courseId, courseName, instructorId)
+VALUES 
+(101, 'Mathematics', 1),
+(102, 'Physics', 2),
+(103, 'Chemistry', 3);
+
+
+INSERT INTO students (studentId, studentName, courseId)
+VALUES 
+(1001, 'Alice', 101),
+(1002, 'Bob', 102),
+(1003, 'Charlie', 103),
+(1004, 'David', 101);
+
+SELECT * FROM students;
+SELECT * FROM courses;
+SELECT * FROM instructors;
+
+
+--INNER JOIN
+SELECT s.studentId AS StudentID,
+	   s.studentName AS StudentName,
+	   c.courseName AS CourseName,
+	   i.instructorName AS InstructorName
+	FROM students s
+	inner join courses c on s.courseId = c.courseId
+	inner join instructors i on c.instructorId = i.instructorId order by courseName ;
+
+--LEFT JOIN
+select s.studentId AS StudentID,
+	   s.studentName AS StudentName,
+	   c.courseName AS CourseName,
+	   i.instructorName AS InstructorName
+	from students s
+	left join courses c on s.courseId = c.courseId
+	left join instructors i on c.instructorId = i.instructorId;
+
+--RIGHT JOIN
+select i.instructorId AS InstructorID,
+	   i.instructorName AS InstructorName,
+	   c.courseName AS CourseName,
+	   s.studentName AS StudentName
+	FROM instructors i
+	right join courses c on i.instructorId =c.instructorId
+	right join students s on c.courseId = s.courseId
