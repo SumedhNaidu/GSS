@@ -1,0 +1,23 @@
+create table products(product_id int primary key,product_name varchar(100),supplier_id int,
+category_id int, quantity_per_unit varchar(100),unit_price decimal,units_in_stock int,units_on_order int,
+reorder_leave int, discontinued int);
+
+create table categories(category_id int primary key, category_name varchar(100), description varchar(100),constraint foreign key(category_id) references products(product_id)) )
+
+create table order_details(order_id int constraint foreign key fk (order_id) references orders(order_id), product_id int constraint foreign key fkk (product_id)references products(product_id),quantity int,discount decimal);
+
+create table suppliers(supplier_id int primary key, company_name varchar(50),contact_name varchar(50),contact_title varchar(50), address varchar(50), city varchar(25), region varchar(30), postal_code varchar(20), country varchar(25), phone varchar(50), fax varchar(225), home_page varchar(225));
+
+create table employee_territories(employee_id int constraint foreign key fk(employee_id) references orders(employee_id));
+
+create table orders(order_id int primary key, customer_id varchar(50), employee_id int, order_date date, required_date date, shipped_date date, ship_via int, freight decimal,ship_name varchar(50),ship_address varchar(50), ship_city varchar(50), ship_region varchar(50), ship_postal_code varchar(25), ship_country varchar(25));
+
+create table shippers(shipper_id int primary key, company_name varchar(75), phone varchar(20));
+
+create table employees(employee_id int primary key, last_name varchar(25),first_name varchar(25), title varchar(25), title_of_courtesy varchar(35), birth_date date, hire_date date, address varchar(25), city varchar(15), region varchar(15), postal_code varchar(15), country varchar(15), home_phone varchar(20), extension varchar(25), reports_to int);
+
+create table territories(territory_id varchar(50) primary key, territory_description varchar(225), region_id int);
+
+create table customers(customer_id varchar(50) primary key, company_name varchar(75), contact_name varchar(55), contact_title varchar(50), address varchar(50), city varchar(15), region varchar(25), postal_code varchar(25), country varchar(25), phone varchar(20), fax varchar(225));
+
+create table regions(region_id int primary key, region_description varchar(225));
