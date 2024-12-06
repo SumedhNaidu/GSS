@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4SuFAqsJEPvGKTgRlfgaqdEtET4U1tqlx4+ufLWIU5E=",
+  "Source": "BookStore Many to Many",
+  "BasePath": "_content/BookStore Many to Many",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

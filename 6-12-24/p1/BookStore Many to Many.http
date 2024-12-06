@@ -1,0 +1,6 @@
+@BookStore_Many_to_Many_HostAddress = http://localhost:5213
+
+GET {{BookStore_Many_to_Many_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
