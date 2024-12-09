@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EfClass.BooksAPI.props" />
+</Project>
