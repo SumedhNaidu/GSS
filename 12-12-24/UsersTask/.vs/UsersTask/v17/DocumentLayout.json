@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\viewmodels\\responseuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\viewmodels\\responseuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\viewmodels\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\viewmodels\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\viewmodels\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\viewmodels\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\mappers\\createusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\mappers\\createusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\models\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\models\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\helpers\\jwtclientapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\helpers\\jwtclientapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\managers\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\managers\\imanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\migrations\\20241210140627_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\migrations\\20241210140627_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\userstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\userstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\userstask\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C28A77-6F6B-48FF-9F8B-499B6009E243}|WebApplication1\\UsersTask.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 533,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Service\\IUserService.cs",
+              "RelativeToolTip": "WebApplication1\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:18:31.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\ViewModels\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\ViewModels\\UserLoginDto.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:13:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Service\\UserService.cs",
+              "RelativeToolTip": "WebApplication1\\Service\\UserService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:32:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:04:31.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:04:40.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T12:13:13.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwFcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:41:22.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Mappers\\CreateUserMapper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Mappers\\CreateUserMapper.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Mappers\\CreateUserMapper.cs",
+              "RelativeToolTip": "WebApplication1\\Mappers\\CreateUserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:13:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\ViewModels\\ResponseUserDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\ResponseUserDto.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\ViewModels\\ResponseUserDto.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\ResponseUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:29:15.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\ViewModels\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\ViewModels\\CreateUserDto.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:13:21.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Models\\Users.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:29:48.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:34:01.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Models\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UsersDbContext.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Models\\UsersDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UsersDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:02:09.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JWTClientApp.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Helpers\\JWTClientApp.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Helpers\\JWTClientApp.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Helpers\\JWTClientApp.cs",
+              "RelativeToolTip": "WebApplication1\\Helpers\\JWTClientApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:12:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T13:57:48.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241210140627_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Migrations\\20241210140627_Initial.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241210140627_Initial.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Migrations\\20241210140627_Initial.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20241210140627_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:06:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApplication1.http",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\WebApplication1.http",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\WebApplication1.http",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-11T04:43:44.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IManager.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Managers\\IManager.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Managers\\IManager.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Managers\\IManager.cs",
+              "RelativeToolTip": "WebApplication1\\Managers\\IManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:07:52.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Managers\\UserManager.cs",
+              "RelativeToolTip": "WebApplication1\\Managers\\UserManager.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:08:34.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersTask.csproj",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\UsersTask.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\UsersTask.csproj",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\UsersTask.csproj",
+              "RelativeToolTip": "WebApplication1\\UsersTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T10:34:44.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\UsersTask\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:26:29.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
