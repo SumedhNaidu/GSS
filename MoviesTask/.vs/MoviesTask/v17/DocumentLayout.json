@@ -1,0 +1,391 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAABAA-033A-4662-BCD6-17C61C5F491D}|Models\\Models.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\models\\dtos\\moviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAABAA-033A-4662-BCD6-17C61C5F491D}|Models\\Models.csproj|solutionrelative:models\\dtos\\moviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C22201-2B52-4482-A67F-F83830C6AC32}|AccessData\\AccessData.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\accessdata\\context\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C22201-2B52-4482-A67F-F83830C6AC32}|AccessData\\AccessData.csproj|solutionrelative:accessdata\\context\\moviesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279D9122-BA10-4E3A-9177-617DEBAB2205}|MoviesTask\\MoviesTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\moviestask\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279D9122-BA10-4E3A-9177-617DEBAB2205}|MoviesTask\\MoviesTask.csproj|solutionrelative:moviestask\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Migrations\\20250104111236_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccessData\\Migrations\\20250104111236_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C22201-2B52-4482-A67F-F83830C6AC32}|AccessData\\AccessData.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\accessdata\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C22201-2B52-4482-A67F-F83830C6AC32}|AccessData\\AccessData.csproj|solutionrelative:accessdata\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4894D44E-E5AD-4606-A352-4A8B0F24E64A}|Data\\Data.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\data\\moviesdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4894D44E-E5AD-4606-A352-4A8B0F24E64A}|Data\\Data.csproj|solutionrelative:data\\moviesdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D333587-05F1-4C56-8FED-6FFCC3136FF1}|Interfaces\\Interfaces.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\interfaces\\interfaces\\irepositorymovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D333587-05F1-4C56-8FED-6FFCC3136FF1}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces\\irepositorymovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626BE035-E831-4CB2-A60C-CD297E203937}|Repositories\\Repositories.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\repositories\\moviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626BE035-E831-4CB2-A60C-CD297E203937}|Repositories\\Repositories.csproj|solutionrelative:repositories\\moviesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B32337D-7FDB-4AED-AE77-56CA492FD925}|Services\\Services.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\services\\service\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B32337D-7FDB-4AED-AE77-56CA492FD925}|Services\\Services.csproj|solutionrelative:services\\service\\moviesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279D9122-BA10-4E3A-9177-617DEBAB2205}|MoviesTask\\MoviesTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\moviestask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{279D9122-BA10-4E3A-9177-617DEBAB2205}|MoviesTask\\MoviesTask.csproj|solutionrelative:moviestask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279D9122-BA10-4E3A-9177-617DEBAB2205}|MoviesTask\\MoviesTask.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\moviestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279D9122-BA10-4E3A-9177-617DEBAB2205}|MoviesTask\\MoviesTask.csproj|solutionrelative:moviestask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D333587-05F1-4C56-8FED-6FFCC3136FF1}|Interfaces\\Interfaces.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\interfaces\\interfaces\\iservicemovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D333587-05F1-4C56-8FED-6FFCC3136FF1}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interfaces\\iservicemovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAABAA-033A-4662-BCD6-17C61C5F491D}|Models\\Models.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\models\\dtos\\createmoviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAABAA-033A-4662-BCD6-17C61C5F491D}|Models\\Models.csproj|solutionrelative:models\\dtos\\createmoviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAABAA-033A-4662-BCD6-17C61C5F491D}|Models\\Models.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\models\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAABAA-033A-4662-BCD6-17C61C5F491D}|Models\\Models.csproj|solutionrelative:models\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C22201-2B52-4482-A67F-F83830C6AC32}|AccessData\\AccessData.csproj|c:\\users\\sumedhnaidu\\source\\repos\\moviestask\\accessdata\\mapping\\moviemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C22201-2B52-4482-A67F-F83830C6AC32}|AccessData\\AccessData.csproj|solutionrelative:accessdata\\mapping\\moviemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 533,
+          "SelectedChildIndex": 42,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:69:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:70:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:97:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:98:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:96:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250104111236_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Migrations\\20250104111236_Initial.cs",
+              "RelativeDocumentMoniker": "AccessData\\Migrations\\20250104111236_Initial.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Migrations\\20250104111236_Initial.cs",
+              "RelativeToolTip": "AccessData\\Migrations\\20250104111236_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:12:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Models\\DTOs\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Models\\DTOs\\ResponseDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:50:54.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieMapping.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Mapping\\MovieMapping.cs",
+              "RelativeDocumentMoniker": "AccessData\\Mapping\\MovieMapping.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Mapping\\MovieMapping.cs",
+              "RelativeToolTip": "AccessData\\Mapping\\MovieMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:12:12.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateMoviesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Models\\DTOs\\CreateMoviesDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreateMoviesDTO.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Models\\DTOs\\CreateMoviesDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreateMoviesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:39:04.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryMovies.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Interfaces\\Interfaces\\IRepositoryMovies.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IRepositoryMovies.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Interfaces\\Interfaces\\IRepositoryMovies.cs",
+              "RelativeToolTip": "Interfaces\\Interfaces\\IRepositoryMovies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:31:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceMovies.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Interfaces\\Interfaces\\IServiceMovies.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IServiceMovies.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Interfaces\\Interfaces\\IServiceMovies.cs",
+              "RelativeToolTip": "Interfaces\\Interfaces\\IServiceMovies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:31:24.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\MoviesTask\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesTask\\Program.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\MoviesTask\\Program.cs",
+              "RelativeToolTip": "MoviesTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:18:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\MoviesTask\\appsettings.json",
+              "RelativeDocumentMoniker": "MoviesTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\MoviesTask\\appsettings.json",
+              "RelativeToolTip": "MoviesTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T09:17:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\MoviesTask\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MoviesTask\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\MoviesTask\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MoviesTask\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:16:45.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Repositories\\MoviesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MoviesRepository.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Repositories\\MoviesRepository.cs",
+              "RelativeToolTip": "Repositories\\MoviesRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:16:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Services\\Service\\MoviesService.cs",
+              "RelativeDocumentMoniker": "Services\\Service\\MoviesService.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Services\\Service\\MoviesService.cs",
+              "RelativeToolTip": "Services\\Service\\MoviesService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:15:49.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "moviesdata.json",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Data\\moviesdata.json",
+              "RelativeDocumentMoniker": "Data\\moviesdata.json",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Data\\moviesdata.json",
+              "RelativeToolTip": "Data\\moviesdata.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T09:06:55.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Context\\MoviesDbContext.cs",
+              "RelativeDocumentMoniker": "AccessData\\Context\\MoviesDbContext.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Context\\MoviesDbContext.cs",
+              "RelativeToolTip": "AccessData\\Context\\MoviesDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:05:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Models\\DTOs\\MoviesDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\MoviesDTO.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\Models\\DTOs\\MoviesDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\MoviesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:02:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "AccessData\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\SumedhNaidu\\source\\repos\\MoviesTask\\AccessData\\Models\\Movies.cs",
+              "RelativeToolTip": "AccessData\\Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:47:55.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
